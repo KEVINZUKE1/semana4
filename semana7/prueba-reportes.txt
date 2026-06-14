@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes, el servidor devuelve la lista de reportes almacenados en memoria. Cada vez que se registra un nuevo reporte mediante POST, este se agrega al array y puede consultarse posteriormente con GET mientras el servidor permanezca encendido.
